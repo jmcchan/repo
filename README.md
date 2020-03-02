@@ -1,2 +1,2 @@
 # spring-flask-restful
-## spring과 flask간 데이터 주고받는 예제
+## spring과 python 사이의 데이터 통신
